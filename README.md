@@ -1,6 +1,4 @@
-# IN3110 Assignment 5: Strømpris
-
-## Introduction to Assignment 5: Energy Price Analysis and Visualization with FastAPI
+# Energy Price Analysis and Visualization with FastAPI
 In this project, you will have a look at the energy price analysis and visualization using Python, FastAPI, and Altair. The primary goal of this assignment is to create a robust FastAPI web application capable of fetching, analyzing, and presenting electricity prices in an interactive and visually appealing manner. 
 
 ## Installation
